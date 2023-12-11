@@ -19,16 +19,16 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   </summary>
 
   #### Web and Computer Programming
-  ![](https://geps.dev/progress/43)
+  ![](https://geps.dev/progress/86)
   | Course Code | Core Certificate Subjects        | Technology / Language           | Semester    | Completed?               |
   |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
   |   CSE 110   | Programming with Building Blocks | Python 🐍                      | Winter 2023 | <ul><li>[X] YES</li></ul> |
   |   CSE 111   | Programming with Functions       | Python 🐍                      | Spring 2023 | <ul><li>[X] YES</li></ul> |
   |   WDD 130   | Web Fundamentals                 | HTML&CSS 🌐                    | Spring 2023 | <ul><li>[X] YES</li></ul> |
-  |   CSE 210   | Programming with Classes         | C# 🖥                           | Fall 2023   | <ul><li>[ ] NO</li></ul> |
-  |   CSE 121B  | Javascript Language              | JavaScript ⚙                   | Fall 2023   | <ul><li>[ ] NO</li></ul> |
+  |   CSE 210   | Programming with Classes         | C# 🖥                           | Fall 2023   | <ul><li>[X] YES</li></ul> |
+  |   CSE 121B  | Javascript Language              | JavaScript ⚙                   | Fall 2023   | <ul><li>[X] YES</li></ul> |
   |   WDD 230   | Web Frontend Development 1       | ???                             | Winter 2024 | <ul><li>[ ] NO</li></ul> |
-  |   GS 170    | Career Development               | ---                             | Fall 2023   | <ul><li>[ ] NO</li></ul> |
+  |   GS 170    | Career Development               | ---                             | Fall 2023   | <ul><li>[X] YES</li></ul> |
   
   #### Web Development
   ![](https://geps.dev/progress/20)
