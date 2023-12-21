@@ -44,8 +44,8 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   ![](https://geps.dev/progress/0)
   | Course Code | Core Certificate Subjects        | Technology / Language           | Semester    | Completed?               |
   |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
-  |   CSE 212   | Programming w/Data Struct        | ???                             | 2025        | <ul><li>[ ] NO</li></ul> |
-  |   CSE 270   | Software Testing                 | ???                             | 2025        | <ul><li>[ ] NO</li></ul> |
+  |   CSE 212   | Programming w/Data Struct        | ???                             | Fall 2024   | <ul><li>[ ] NO</li></ul> |
+  |   CSE 270   | Software Testing                 | ???                             | Fall 2024   | <ul><li>[ ] NO</li></ul> |
   |   CSE 310   | Applied Programming              | ???                             | 2025        | <ul><li>[ ] NO</li></ul> |
   |   CSE 325   | .NET Software Development        | ???                             | 2025        | <ul><li>[ ] NO</li></ul> |
   |   CSE 430   | Architectural Design             | ???                             | 2025        | <ul><li>[ ] NO</li></ul> |
