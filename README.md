@@ -114,12 +114,12 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   [diagram_link]: ""
 
   #### Foundational C# with Microsoft
-  ![](https://geps.dev/progress/29)
+  ![](https://geps.dev/progress/43)
   | Modules                                            | Module Units | Completed?                |
   |----------------------------------------------------|--------------|---------------------------|
   | Write Your First Code Using C#                     | 7            | <ul><li>[X] YES</li></ul> |
   | Create and Run Simple C# Console Applications      | 8            | <ul><li>[X] YES</li></ul> |
-  | Add Logic to C# Console Applications               | 8            | <ul><li>[ ] NO</li></ul> |
+  | Add Logic to C# Console Applications               | 8            | <ul><li>[X] YES</li></ul> |
   | Work with Variable Data in C# Console Applications | 8            | <ul><li>[ ] NO</li></ul> |
   | Create Methods in C# Console Applications          | 6            | <ul><li>[ ] NO</li></ul> |
   | Debug C# Console Applications                      | 7            | <ul><li>[ ] NO</li></ul> |
