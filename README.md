@@ -27,14 +27,14 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   |   WDD 130   | Web Fundamentals                 | HTML&CSS 🌐                    | Spring 2023 | <ul><li>[X] YES</li></ul> |
   |   CSE 210   | Programming with Classes         | C# 🖥                           | Fall 2023   | <ul><li>[X] YES</li></ul> |
   |   CSE 121B  | Javascript Language              | JavaScript ⚙                   | Fall 2023   | <ul><li>[X] YES</li></ul> |
-  |   WDD 230   | Web Frontend Development 1       | ???                             | Winter 2024 | <ul><li>[ ] NO</li></ul> |
-  |   GS 170    | Career Development               | ---                             | Fall 2023   | <ul><li>[X] YES</li></ul> |
+  |   WDD 230   | Web Frontend Development 1       | Testing & DevTools 🛠🚀        | Winter 2024 | <ul><li>[ ] NO</li></ul> |
+  |   GS 170    | Career Development               | Job Search 👔                  | Fall 2023   | <ul><li>[X] YES</li></ul> |
   
   #### Web Development
   ![](https://geps.dev/progress/20)
   | Course Code | Core Certificate Subjects        | Technology / Language           | Semester    | Completed?               |
   |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
-  |   CIT 111   | Introduction to Databases        | SQL 💾 / MySQL                 | Fall 2023   | <ul><li>[X] YES</li></ul> |
+  |   CIT 111   | Introduction to Databases        | MySQL / SQL 💾                  | Fall 2023   | <ul><li>[X] YES</li></ul> |
   |   WDD 330   | Web Frontend Development 2       | ???                             | Spring 2024 | <ul><li>[ ] NO</li></ul> |
   |   CSE 340   | Web Backend Development          | ???                             | Spring 2024 | <ul><li>[ ] NO</li></ul> |
   |   CSE 341   | Web Services                     | ???                             | Spring 2024 | <ul><li>[ ] NO</li></ul> |
