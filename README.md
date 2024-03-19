@@ -13,10 +13,7 @@
 
 I love hearing music 🎧, reading books 📖, practicing photography 📷, and watching movies 🎬 above all.
 
-<details>
-  <summary>
-    <h3>Bachelor of Software Development Status Update 👏🥳</h3>
-  </summary>
+<details><summary><h3>Bachelor of Software Development Status Update 👏🥳</h3></summary>
 
   #### Web and Computer Programming
   ![](https://geps.dev/progress/86)
