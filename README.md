@@ -6,7 +6,7 @@
 
 #### I'm Vicente, an enthusiast self-taught developer 😅
 
-🔭 I’m currently studying at BYU-Idaho a Bachelor of Software Development. <br />
+🔭 I’m currently studying ✨2nd year✨ of Bachelor of Software Development at BYU-Idaho. <br />
 🌱 I’m currently learning React to be a Frontend Developer. <br />
 👯 I’m looking to collaborate on frontend projects as my skills may be useful. <br />
 🌟 I'm looking for experience in this wonderful world and improve as a developer. <br />
@@ -16,7 +16,7 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
 <details><summary><h3>Bachelor of Software Development Status Update 👏🥳</h3></summary>
 
   #### Web and Computer Programming
-  ![](https://geps.dev/progress/86)
+  ![](https://geps.dev/progress/100)
   | Course Code | Core Certificate Subjects        | Technology / Language           | Semester    | Completed?               |
   |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
   |   CSE 110   | Programming with Building Blocks | Python 🐍                      | Winter 2023 | <ul><li>[X] YES</li></ul> |
@@ -24,7 +24,7 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   |   WDD 130   | Web Fundamentals                 | HTML&CSS 🌐                    | Spring 2023 | <ul><li>[X] YES</li></ul> |
   |   CSE 210   | Programming with Classes         | C# 🖥                           | Fall 2023   | <ul><li>[X] YES</li></ul> |
   |   CSE 121B  | Javascript Language              | JavaScript ⚙                   | Fall 2023   | <ul><li>[X] YES</li></ul> |
-  |   WDD 230   | Web Frontend Development 1       | Testing & DevTools 🛠🚀        | Winter 2024 | <ul><li>[ ] NO</li></ul> |
+  |   WDD 230   | Web Frontend Development 1       | Testing & DevTools 🛠🚀        | Winter 2024 | <ul><li>[X] YES</li></ul> |
   |   GS 170    | Career Development               | Job Search 👔                  | Fall 2023   | <ul><li>[X] YES</li></ul> |
   
   #### Web Development
@@ -32,20 +32,21 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   | Course Code | Core Certificate Subjects        | Technology / Language           | Semester    | Completed?               |
   |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
   |   CIT 111   | Introduction to Databases        | MySQL / SQL 💾                  | Fall 2023   | <ul><li>[X] YES</li></ul> |
-  |   WDD 330   | Web Frontend Development 2       | ???                             | Spring 2024 | <ul><li>[ ] NO</li></ul> |
-  |   CSE 340   | Web Backend Development          | ???                             | Spring 2024 | <ul><li>[ ] NO</li></ul> |
-  |   CSE 341   | Web Services                     | ???                             | Spring 2024 | <ul><li>[ ] NO</li></ul> |
-  |   WDD 430   | Web Full-stack Development       | ???                             | Fall 2024   | <ul><li>[ ] NO</li></ul> |
+  |   WDD 330   | Web Frontend Development 2       | JavaScript / Trello 🌐🗃        | Fall 2024   | <ul><li>[ ] NO</li></ul> |
+  |   CSE 340   | Web Backend Development          | NodeJS / JavaScript 🟩🔐       | Fall 2024   | <ul><li>[ ] NO</li></ul> |
+  |   CSE 341   | Web Services                     | Express / MongoDB / GraphQL 🦺  | Fall 2024   | <ul><li>[ ] NO</li></ul> |
+  |   WDD 430   | Web Full-stack Development       | React / Next.js / TypeScript 🧰 | Winter 2025 | <ul><li>[ ] NO</li></ul> |
   
   #### Software Development
   ![](https://geps.dev/progress/0)
   | Course Code | Core Certificate Subjects        | Technology / Language           | Semester    | Completed?               |
   |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
-  |   CSE 212   | Programming w/Data Struct        | ???                             | Fall 2024   | <ul><li>[ ] NO</li></ul> |
-  |   CSE 270   | Software Testing                 | ???                             | Fall 2024   | <ul><li>[ ] NO</li></ul> |
+  |   CSE 212   | Programming w/Data Struct        | ???                             | Winter 2025 | <ul><li>[ ] NO</li></ul> |
+  |   CSE 270   | Software Testing                 | ???                             | Winter 2025 | <ul><li>[ ] NO</li></ul> |
+  |   CSE 300   | Professional Readiness           | ???                             | 2025        | <ul><li>[ ] NO</li></ul> |
   |   CSE 310   | Applied Programming              | ???                             | 2025        | <ul><li>[ ] NO</li></ul> |
   |   CSE 325   | .NET Software Development        | ???                             | 2025        | <ul><li>[ ] NO</li></ul> |
-  |   CSE 430   | Architectural Design             | ???                             | 2025        | <ul><li>[ ] NO</li></ul> |
+  |   CSE 370   | Software Eng. Principles         | ???                             | 2025        | <ul><li>[ ] NO</li></ul> |
 </details>
 <details>
   <summary>
@@ -104,7 +105,7 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   | Visualize Data with a Choropleth Map    | [In progress][choro_link]   | <ul><li>[ ] NO</li></ul> |
   | Visualize Data with a Treemap Diagram   | [In progress][diagram_link] | <ul><li>[ ] NO</li></ul> |
 
-  [bar_link]: https://vicentemferrer.github.io/random-quote-machine.v2/
+  [bar_link]: https://vicentemferrer.github.io/gdp-bar-chart/
   [scatter_link]: ""
   [map_link]: ""
   [choro_link]: ""
