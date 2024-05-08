@@ -106,7 +106,7 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   | Visualize Data with a Treemap Diagram   | [In progress][diagram_link] | <ul><li>[ ] NO</li></ul> |
 
   [bar_link]: https://vicentemferrer.github.io/gdp-bar-chart/
-  [scatter_link]: ""
+  [scatter_link]: https://vicentemferrer.github.io/doping-scatterplot-graph/
   [map_link]: ""
   [choro_link]: ""
   [diagram_link]: ""
