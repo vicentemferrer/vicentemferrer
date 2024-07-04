@@ -17,7 +17,7 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
 
   #### Web and Computer Programming
   ![](https://geps.dev/progress/100)
-  | Course Code | Core Certificate Subjects        | Technology / Language           | Semester    | Completed?               |
+  | Course Code | Core Certificate Subjects        | Technology / Language / Topic   | Term        | Completed?               |
   |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
   |   CSE 110   | Programming with Building Blocks | Python 🐍                      | Winter 2023 | <ul><li>[X] YES</li></ul> |
   |   CSE 111   | Programming with Functions       | Python 🐍                      | Spring 2023 | <ul><li>[X] YES</li></ul> |
@@ -25,11 +25,10 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   |   CSE 210   | Programming with Classes         | C# 🖥                           | Fall 2023   | <ul><li>[X] YES</li></ul> |
   |   CSE 121B  | Javascript Language              | JavaScript ⚙                   | Fall 2023   | <ul><li>[X] YES</li></ul> |
   |   WDD 230   | Web Frontend Development 1       | Testing & DevTools 🛠🚀        | Winter 2024 | <ul><li>[X] YES</li></ul> |
-  |   GS 170    | Career Development               | Job Search 👔                  | Fall 2023   | <ul><li>[X] YES</li></ul> |
   
   #### Web Development
   ![](https://geps.dev/progress/20)
-  | Course Code | Core Certificate Subjects        | Technology / Language           | Semester    | Completed?               |
+  | Course Code | Core Certificate Subjects        | Technology / Language / Topic   | Term        | Completed?               |
   |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
   |   CIT 111   | Introduction to Databases        | MySQL / SQL 💾                  | Fall 2023   | <ul><li>[X] YES</li></ul> |
   |   WDD 330   | Web Frontend Development 2       | JavaScript / Trello 🌐🗃        | Fall 2024   | <ul><li>[ ] NO</li></ul> |
@@ -39,14 +38,37 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   
   #### Software Development
   ![](https://geps.dev/progress/0)
-  | Course Code | Core Certificate Subjects        | Technology / Language           | Semester    | Completed?               |
+  | Course Code | Core Certificate Subjects        | Technology / Language / Topic   | Term        | Completed?               |
   |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
-  |   CSE 212   | Programming w/Data Struct        | ???                             | Spring 2025 | <ul><li>[ ] NO</li></ul> |
-  |   CSE 270   | Software Testing                 | ???                             | Spring 2025 | <ul><li>[ ] NO</li></ul> |
-  |   CSE 300   | Professional Readiness           | ???                             | Spring 2025 | <ul><li>[ ] NO</li></ul> |
-  |   CSE 310   | Applied Programming              | ???                             | Spring 2025 | <ul><li>[ ] NO</li></ul> |
-  |   CSE 325   | .NET Software Development        | ???                             | 2025        | <ul><li>[ ] NO</li></ul> |
-  |   CSE 370   | Software Eng. Principles         | ???                             | 2025        | <ul><li>[ ] NO</li></ul> |
+  |   CSE 212   | Programming w/Data Struct        | ...                             | Spring 2025 | <ul><li>[ ] NO</li></ul> |
+  |   CSE 270   | Software Testing                 | ...                             | Spring 2025 | <ul><li>[ ] NO</li></ul> |
+  |   CSE 300   | Professional Readiness           | ...                             | Spring 2025 | <ul><li>[ ] NO</li></ul> |
+  |   CSE 310   | Applied Programming              | ...                             | Spring 2025 | <ul><li>[ ] NO</li></ul> |
+  |   CSE 325   | .NET Software Development        | ...                             | 2025        | <ul><li>[ ] NO</li></ul> |
+  |   CSE 370   | Software Eng. Principles         | ...                             | 2025        | <ul><li>[ ] NO</li></ul> |
+
+  #### General Education
+  ![](https://geps.dev/progress/58)
+  | Course Code | Subject                                       | Term        | Completed?                |
+  |-------------|-----------------------------------------------|-------------|---------------------------|
+  |  PC 101     | Life Skills                                   | Spring 2022 | <ul><li>[X] YES</li></ul> |
+  |  PC 102     | Professional Skills                           | Fall 2022   | <ul><li>[X] YES</li></ul> |
+  |  PC 103     | University Skills                             | Winter 2023 | <ul><li>[X] YES</li></ul> |
+  |  GS 170     | Career Development                            | Fall 2023   | <ul><li>[X] YES</li></ul> |
+  |  ENG 150    | Writing and Reasoning Foundations             | Winter 2024 | <ul><li>[X] YES</li></ul> |
+  |  MATH 108X  | Math for the Real World                       | Winter 2024 | <ul><li>[X] YES</li></ul> |
+  |  REL 200C   | The Eternal Family                            | Fall 2022   | <ul><li>[X] YES</li></ul> |
+  |  REL 225C   | Foundations of the Restoration                | Fall 2022   | <ul><li>[X] YES</li></ul> |
+  |  REL 250C   | Jesus Christ Everlasting Gospel               | Fall 2023   | <ul><li>[X] YES</li></ul> |
+  |  REL 275C   | Teachings and Doctrines of the Book of Mormon | Spring 2022 | <ul><li>[X] YES</li></ul> |
+  |  BUS 301    | Advanced Writing in Professional Contexts     | Fall 2024   | <ul><li>[ ] NO</li></ul>  |
+  |  BUS 321    | Organizational Leadership                     | Winter 2025 | <ul><li>[ ] NO</li></ul>  |
+  |  FCS 160    | Home and Family Resource Management           | ...         | <ul><li>[ ] NO</li></ul>  |
+  |  GESCI 110  | Sustaining Human Life                         | ...         | <ul><li>[ ] NO</li></ul>  |
+  |  HUM 110    | Discovery and Discernment Through the Arts    | ...         | <ul><li>[ ] NO</li></ul>  |
+  |  PEACE 101  | Conflict and Peace                            | ...         | <ul><li>[ ] NO</li></ul>  |
+  |  PUBH 132   | Personal Health and Wellness                  | ...         | <ul><li>[ ] NO</li></ul>  |
+  |  ...        | ...                                           | ...         | <ul><li>[ ] NO</li></ul>  |
 </details>
 <details>
   <summary>
