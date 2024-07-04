@@ -7,7 +7,7 @@
 #### I'm Vicente, an enthusiast self-taught developer 😅
 
 🔭 I’m currently studying ✨2nd year✨ of Bachelor of Software Development at BYU-Idaho. <br />
-🌱 I’m currently learning React to be a Frontend Developer. <br />
+🌱 I’m currently learning React and Astro to be a Frontend Developer. <br />
 👯 I’m looking to collaborate on frontend projects as my skills may be useful. <br />
 🌟 I'm looking for experience in this wonderful world and improve as a developer. <br />
 
@@ -17,7 +17,7 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
 
   #### Web and Computer Programming
   ![](https://geps.dev/progress/100)
-  | Course Code | Core Certificate Subjects        | Technology / Language / Topic   | Term        | Completed?               |
+  | Course Code | Subject                          | Technology / Language / Topic   | Term        | Completed?               |
   |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
   |   CSE 110   | Programming with Building Blocks | Python 🐍                      | Winter 2023 | <ul><li>[X] YES</li></ul> |
   |   CSE 111   | Programming with Functions       | Python 🐍                      | Spring 2023 | <ul><li>[X] YES</li></ul> |
@@ -28,7 +28,7 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   
   #### Web Development
   ![](https://geps.dev/progress/20)
-  | Course Code | Core Certificate Subjects        | Technology / Language / Topic   | Term        | Completed?               |
+  | Course Code | Subject                          | Technology / Language / Topic   | Term        | Completed?               |
   |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
   |   CIT 111   | Introduction to Databases        | MySQL / SQL 💾                  | Fall 2023   | <ul><li>[X] YES</li></ul> |
   |   WDD 330   | Web Frontend Development 2       | JavaScript / Trello 🌐🗃        | Fall 2024   | <ul><li>[ ] NO</li></ul> |
@@ -38,7 +38,7 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   
   #### Software Development
   ![](https://geps.dev/progress/0)
-  | Course Code | Core Certificate Subjects        | Technology / Language / Topic   | Term        | Completed?               |
+  | Course Code | Subject                          | Technology / Language / Topic   | Term        | Completed?               |
   |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
   |   CSE 212   | Programming w/Data Struct        | ...                             | Spring 2025 | <ul><li>[ ] NO</li></ul> |
   |   CSE 270   | Software Testing                 | ...                             | Spring 2025 | <ul><li>[ ] NO</li></ul> |
@@ -48,7 +48,7 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   |   CSE 370   | Software Eng. Principles         | ...                             | 2025        | <ul><li>[ ] NO</li></ul> |
 
   #### General Education
-  ![](https://geps.dev/progress/58)
+  ![](https://geps.dev/progress/65)
   | Course Code | Subject                                       | Term        | Completed?                |
   |-------------|-----------------------------------------------|-------------|---------------------------|
   |  PC 101     | Life Skills                                   | Spring 2022 | <ul><li>[X] YES</li></ul> |
@@ -61,6 +61,9 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   |  REL 225C   | Foundations of the Restoration                | Fall 2022   | <ul><li>[X] YES</li></ul> |
   |  REL 250C   | Jesus Christ Everlasting Gospel               | Fall 2023   | <ul><li>[X] YES</li></ul> |
   |  REL 275C   | Teachings and Doctrines of the Book of Mormon | Spring 2022 | <ul><li>[X] YES</li></ul> |
+  |  REL 121    | The Book of Mormon (1 Nephi to Alma 30)       | Fall 2022   | <ul><li>[X] YES</li></ul> |
+  |  REL 122    | The Book of Mormon (Alma 30 to Moroni)        | Winter 2022 | <ul><li>[X] YES</li></ul> |
+  |  REL 211    | The New Testament                             | Winter 2023 | <ul><li>[X] YES</li></ul> |
   |  BUS 301    | Advanced Writing in Professional Contexts     | Fall 2024   | <ul><li>[ ] NO</li></ul>  |
   |  BUS 321    | Organizational Leadership                     | Winter 2025 | <ul><li>[ ] NO</li></ul>  |
   |  FCS 160    | Home and Family Resource Management           | ...         | <ul><li>[ ] NO</li></ul>  |
