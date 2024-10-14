@@ -136,6 +136,22 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   [choro_link]: ""
   [diagram_link]: ""
 
+  #### Back End Development and APIs
+  ![](https://geps.dev/progress/40)
+  | Certificate Projects                    | Project URL                  | Completed?                |
+  |-----------------------------------------|------------------------------|---------------------------|
+  | Timestamp Microservice                  | [Open ↗][timestamp_link]     | <ul><li>[X] YES</li></ul> |
+  | Request Header Parser Microservice      | [Open ↗][header_link]        | <ul><li>[X] YES</li></ul> |
+  | URL Shortener Microservice              | [In progress][url_link]      | <ul><li>[ ] NO</li></ul>  |
+  | Exercise Tracker                        | [In progress][tracker_link]  | <ul><li>[ ] NO</li></ul>  |
+  | File Metadata Microservice              | [In progress][metadata_link] | <ul><li>[ ] NO</li></ul>  |
+
+  [timestamp_link]: https://timestamp-microservice-htso.onrender.com/
+  [header_link]: https://headerparser-microservice-ay61.onrender.com/
+  [url_link]: ""
+  [tracker_link]: ""
+  [metadata_link]: ""
+
   #### Foundational C# with Microsoft
   ![](https://geps.dev/progress/71)
   | Modules                                            | Module Units | Completed?                |
@@ -145,7 +161,7 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   | Add Logic to C# Console Applications               | 8            | <ul><li>[X] YES</li></ul> |
   | Work with Variable Data in C# Console Applications | 8            | <ul><li>[X] YES</li></ul> |
   | Create Methods in C# Console Applications          | 6            | <ul><li>[X] YES</li></ul> |
-  | Debug C# Console Applications                      | 7            | <ul><li>[ ] NO</li></ul> |
-  | Foundational C# with Microsoft Certification Exam  | 1            | <ul><li>[ ] NO</li></ul> |
+  | Debug C# Console Applications                      | 7            | <ul><li>[ ] NO</li></ul>  |
+  | Foundational C# with Microsoft Certification Exam  | 1            | <ul><li>[ ] NO</li></ul>  |
 </details>
 
