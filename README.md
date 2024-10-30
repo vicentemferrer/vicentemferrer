@@ -32,7 +32,7 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
   |   CIT 111   | Introduction to Databases        | MySQL / SQL 💾                  | Fall 2023   | <ul><li>[X] YES</li></ul> |
   |   WDD 330   | Web Frontend Development 2       | JavaScript / Trello 🌐🗃        | Fall 2024   | <ul><li>[ ] NO</li></ul> |
-  |   CSE 340   | Web Backend Development          | NodeJS / JavaScript 🟩🔐       | Fall 2024   | <ul><li>[ ] NO</li></ul> |
+  |   CSE 340   | Web Backend Development          | NodeJS / JavaScript 🟩🔐       | Fall 2024   | <ul><li>[X] YES</li></ul> |
   |   CSE 341   | Web Services                     | Express / MongoDB / GraphQL 🦺  | Fall 2024   | <ul><li>[ ] NO</li></ul> |
   |   WDD 430   | Web Full-stack Development       | React / Next.js / TypeScript 🧰 | Winter 2025 | <ul><li>[ ] NO</li></ul> |
   
@@ -64,7 +64,7 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   |  REL 121    | The Book of Mormon (1 Nephi to Alma 30)       | Fall 2022   | <ul><li>[X] YES</li></ul> |
   |  REL 122    | The Book of Mormon (Alma 30 to Moroni)        | Winter 2022 | <ul><li>[X] YES</li></ul> |
   |  REL 211    | The New Testament                             | Winter 2023 | <ul><li>[X] YES</li></ul> |
-  |  BUS 301    | Advanced Writing in Professional Contexts     | Fall 2024   | <ul><li>[ ] NO</li></ul>  |
+  |  BUS 301    | Advanced Writing in Professional Contexts     | Fall 2024   | <ul><li>[X] YES</li></ul>  |
   |  BUS 321    | Organizational Leadership                     | Winter 2025 | <ul><li>[ ] NO</li></ul>  |
   |  FCS 160    | Home and Family Resource Management           | ...         | <ul><li>[ ] NO</li></ul>  |
   |  GESCI 110  | Sustaining Human Life                         | ...         | <ul><li>[ ] NO</li></ul>  |
