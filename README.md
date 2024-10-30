@@ -27,7 +27,7 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   |   WDD 230   | Web Frontend Development 1       | Testing & DevTools 🛠🚀        | Winter 2024 | <ul><li>[X] YES</li></ul> |
   
   #### Web Development
-  ![](https://geps.dev/progress/20)
+  ![](https://geps.dev/progress/40)
   | Course Code | Subject                          | Technology / Language / Topic   | Term        | Completed?               |
   |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
   |   CIT 111   | Introduction to Databases        | MySQL / SQL 💾                  | Fall 2023   | <ul><li>[X] YES</li></ul> |
