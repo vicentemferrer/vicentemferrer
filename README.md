@@ -48,7 +48,7 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   |   CSE 370   | Software Eng. Principles         | ...                             | 2025        | <ul><li>[ ] NO</li></ul> |
 
   #### General Education
-  ![](https://geps.dev/progress/65)
+  ![](https://geps.dev/progress/70)
   | Course Code | Subject                                       | Term        | Completed?                |
   |-------------|-----------------------------------------------|-------------|---------------------------|
   |  PC 101     | Life Skills                                   | Spring 2022 | <ul><li>[X] YES</li></ul> |
