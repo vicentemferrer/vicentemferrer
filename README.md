@@ -15,7 +15,7 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
 
 <details><summary><h3>Bachelor of Software Development Status 👏🥳</h3></summary>
 
-  #### Web and Computer Programming
+  #### Web and Computer Programming 🏆
   ![](https://geps.dev/progress/100)
   | Course Code | Subject                          | Technology / Language / Topic   | Term        | Completed?               |
   |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
