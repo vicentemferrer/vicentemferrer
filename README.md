@@ -27,25 +27,26 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   |   WDD 230   | Web Frontend Development 1       | Testing & DevTools 🛠🚀        | Winter 2024 | <ul><li>[X] YES</li></ul> |
   
   #### Web Development
-  ![](https://geps.dev/progress/40)
+  ![](https://geps.dev/progress/80)
   | Course Code | Subject                          | Technology / Language / Topic   | Term        | Completed?               |
   |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
   |   CIT 111   | Introduction to Databases        | MySQL / SQL 💾                  | Fall 2023   | <ul><li>[X] YES</li></ul> |
-  |   WDD 330   | Web Frontend Development 2       | JavaScript / Trello 🌐🗃        | Fall 2024   | <ul><li>[ ] NO</li></ul> |
+  |   WDD 330   | Web Frontend Development 2       | JavaScript / Trello 🌐🗃        | Fall 2024   | <ul><li>[X] YES</li></ul> |
   |   CSE 340   | Web Backend Development          | NodeJS / JavaScript 🟩🔐       | Fall 2024   | <ul><li>[X] YES</li></ul> |
-  |   CSE 341   | Web Services                     | Express / MongoDB / GraphQL 🦺  | Fall 2024   | <ul><li>[ ] NO</li></ul> |
-  |   WDD 430   | Web Full-stack Development       | React / Next.js / TypeScript 🧰 | Winter 2025 | <ul><li>[ ] NO</li></ul> |
+  |   CSE 341   | Web Services                     | Express / MongoDB / GraphQL 🦺  | Fall 2024   | <ul><li>[X] YES</li></ul> |
+  |   WDD 430   | Web Full-stack Development       | React / Next.js / TypeScript 🧰 | ...         | <ul><li>[ ] NO</li></ul> |
   
   #### Software Development
   ![](https://geps.dev/progress/0)
   | Course Code | Subject                          | Technology / Language / Topic   | Term        | Completed?               |
   |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
-  |   CSE 212   | Programming w/Data Struct        | ...                             | Spring 2025 | <ul><li>[ ] NO</li></ul> |
-  |   CSE 270   | Software Testing                 | ...                             | Spring 2025 | <ul><li>[ ] NO</li></ul> |
-  |   CSE 300   | Professional Readiness           | ...                             | Spring 2025 | <ul><li>[ ] NO</li></ul> |
-  |   CSE 310   | Applied Programming              | ...                             | Spring 2025 | <ul><li>[ ] NO</li></ul> |
-  |   CSE 325   | .NET Software Development        | ...                             | 2025        | <ul><li>[ ] NO</li></ul> |
-  |   CSE 370   | Software Eng. Principles         | ...                             | 2025        | <ul><li>[ ] NO</li></ul> |
+  |   CSE 212   | Programming w/Data Struct        | ...                             | ...         | <ul><li>[ ] NO</li></ul> |
+  |   CSE 270   | Software Testing                 | ...                             | ...         | <ul><li>[ ] NO</li></ul> |
+  |   CSE 300   | Professional Readiness           | ...                             | ...         | <ul><li>[ ] NO</li></ul> |
+  |   CSE 310   | Applied Programming              | ...                             | ...         | <ul><li>[ ] NO</li></ul> |
+  |   CSE 325   | .NET Software Development        | ...                             | ...         | <ul><li>[ ] NO</li></ul> |
+  |   CSE 370   | Software Eng. Principles         | ...                             | ...         | <ul><li>[ ] NO</li></ul> |
+  |   CSE 499   | Senior Project                   | ...                             | ...         | <ul><li>[ ] NO</li></ul> |
 
   #### General Education
   ![](https://geps.dev/progress/70)
@@ -64,14 +65,13 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   |  REL 121    | The Book of Mormon (1 Nephi to Alma 30)       | Fall 2022   | <ul><li>[X] YES</li></ul> |
   |  REL 122    | The Book of Mormon (Alma 30 to Moroni)        | Winter 2022 | <ul><li>[X] YES</li></ul> |
   |  REL 211    | The New Testament                             | Winter 2023 | <ul><li>[X] YES</li></ul> |
-  |  BUS 301    | Advanced Writing in Professional Contexts     | Fall 2024   | <ul><li>[X] YES</li></ul>  |
-  |  BUS 321    | Organizational Leadership                     | Winter 2025 | <ul><li>[ ] NO</li></ul>  |
+  |  BUS 301    | Advanced Writing in Professional Contexts     | Fall 2024   | <ul><li>[X] YES</li></ul> |
+  |  BUS 321    | Organizational Leadership                     | ...         | <ul><li>[ ] NO</li></ul>  |
   |  FCS 160    | Home and Family Resource Management           | ...         | <ul><li>[ ] NO</li></ul>  |
   |  GESCI 110  | Sustaining Human Life                         | ...         | <ul><li>[ ] NO</li></ul>  |
   |  HUM 110    | Discovery and Discernment Through the Arts    | ...         | <ul><li>[ ] NO</li></ul>  |
   |  PEACE 101  | Conflict and Peace                            | ...         | <ul><li>[ ] NO</li></ul>  |
   |  PUBH 132   | Personal Health and Wellness                  | ...         | <ul><li>[ ] NO</li></ul>  |
-  |  ...        | ...                                           | ...         | <ul><li>[ ] NO</li></ul>  |
 </details>
 <details>
   <summary>
