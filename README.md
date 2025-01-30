@@ -28,50 +28,50 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   
   #### Web Development
   ![](https://geps.dev/progress/80)
-  | Course Code | Subject                          | Technology / Language / Topic   | Term        | Completed?               |
-  |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
-  |   CIT 111   | Introduction to Databases        | MySQL / SQL 💾                  | Fall 2023   | <ul><li>[X] YES</li></ul> |
-  |   WDD 330   | Web Frontend Development 2       | JavaScript / Trello 🌐🗃        | Fall 2024   | <ul><li>[X] YES</li></ul> |
-  |   CSE 340   | Web Backend Development          | NodeJS / JavaScript 🟩🔐       | Fall 2024   | <ul><li>[X] YES</li></ul> |
-  |   CSE 341   | Web Services                     | Express / MongoDB / GraphQL 🦺  | Fall 2024   | <ul><li>[X] YES</li></ul> |
-  |   WDD 430   | Web Full-stack Development       | React / Next.js / TypeScript 🧰 | ...         | <ul><li>[ ] NO</li></ul> |
+  | Course Code | Subject                          | Technology / Language / Topic   | Term            | Completed?               |
+  |-------------|----------------------------------|---------------------------------|-----------------|--------------------------|
+  |   CIT 111   | Introduction to Databases        | MySQL / SQL 💾                  | Fall 2023       | <ul><li>[X] YES</li></ul> |
+  |   WDD 330   | Web Frontend Development 2       | JavaScript / Trello 🌐🗃        | Fall 2024       | <ul><li>[X] YES</li></ul> |
+  |   CSE 340   | Web Backend Development          | NodeJS / JavaScript 🟩🔐       | Fall 2024       | <ul><li>[X] YES</li></ul> |
+  |   CSE 341   | Web Services                     | Express / MongoDB / GraphQL 🦺  | Fall 2024       | <ul><li>[X] YES</li></ul> |
+  |   WDD 430   | Web Full-stack Development       | React / Next.js / TypeScript 🧰 | Winter 2025 (2)| <ul><li>[ ] NO</li></ul> |
   
   #### Software Development
   ![](https://geps.dev/progress/0)
-  | Course Code | Subject                          | Technology / Language / Topic   | Term        | Completed?               |
-  |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
-  |   CSE 212   | Programming w/Data Struct        | ...                             | ...         | <ul><li>[ ] NO</li></ul> |
-  |   CSE 270   | Software Testing                 | ...                             | ...         | <ul><li>[ ] NO</li></ul> |
-  |   CSE 300   | Professional Readiness           | ...                             | ...         | <ul><li>[ ] NO</li></ul> |
-  |   CSE 310   | Applied Programming              | ...                             | ...         | <ul><li>[ ] NO</li></ul> |
-  |   CSE 325   | .NET Software Development        | ...                             | ...         | <ul><li>[ ] NO</li></ul> |
-  |   CSE 370   | Software Eng. Principles         | ...                             | ...         | <ul><li>[ ] NO</li></ul> |
-  |   CSE 499   | Senior Project                   | ...                             | ...         | <ul><li>[ ] NO</li></ul> |
+  | Course Code | Subject                          | Technology / Language / Topic   | Term           | Completed?               |
+  |-------------|----------------------------------|---------------------------------|----------------|--------------------------|
+  |   CSE 212   | Programming w/Data Struct        | C# 🖥                           | Winter 2025 (2)| <ul><li>[ ] NO</li></ul> |
+  |   CSE 270   | Software Testing                 | Testing Procedures & Tools 🛠   | Spring 2025 (1)| <ul><li>[ ] NO</li></ul> |
+  |   CSE 300   | Professional Readiness           | Resume, Work Profile, Interview | Spring 2025 (1)| <ul><li>[ ] NO</li></ul> |
+  |   CSE 310   | Applied Programming              | 3 Software Projects 📚          | Spring 2025 (2)| <ul><li>[ ] NO</li></ul> |
+  |   CSE 325   | .NET Software Development        | .NET Framework 🟪              | Spring 2025 (2)| <ul><li>[ ] NO</li></ul> |
+  |   CSE 370   | Software Eng. Principles         | ...                             | Fall 2025 (1)  | <ul><li>[ ] NO</li></ul> |
+  |   CSE 499   | Senior Project                   | ...                             | Fall 2025 (1)  | <ul><li>[ ] NO</li></ul> |
 
   #### General Education
   ![](https://geps.dev/progress/70)
-  | Course Code | Subject                                       | Term        | Completed?                |
-  |-------------|-----------------------------------------------|-------------|---------------------------|
-  |  PC 101     | Life Skills                                   | Spring 2022 | <ul><li>[X] YES</li></ul> |
-  |  PC 102     | Professional Skills                           | Fall 2022   | <ul><li>[X] YES</li></ul> |
-  |  PC 103     | University Skills                             | Winter 2023 | <ul><li>[X] YES</li></ul> |
-  |  GS 170     | Career Development                            | Fall 2023   | <ul><li>[X] YES</li></ul> |
-  |  ENG 150    | Writing and Reasoning Foundations             | Winter 2024 | <ul><li>[X] YES</li></ul> |
-  |  MATH 108X  | Math for the Real World                       | Winter 2024 | <ul><li>[X] YES</li></ul> |
-  |  REL 200C   | The Eternal Family                            | Fall 2022   | <ul><li>[X] YES</li></ul> |
-  |  REL 225C   | Foundations of the Restoration                | Fall 2022   | <ul><li>[X] YES</li></ul> |
-  |  REL 250C   | Jesus Christ Everlasting Gospel               | Fall 2023   | <ul><li>[X] YES</li></ul> |
-  |  REL 275C   | Teachings and Doctrines of the Book of Mormon | Spring 2022 | <ul><li>[X] YES</li></ul> |
-  |  REL 121    | The Book of Mormon (1 Nephi to Alma 30)       | Fall 2022   | <ul><li>[X] YES</li></ul> |
-  |  REL 122    | The Book of Mormon (Alma 30 to Moroni)        | Winter 2022 | <ul><li>[X] YES</li></ul> |
-  |  REL 211    | The New Testament                             | Winter 2023 | <ul><li>[X] YES</li></ul> |
-  |  BUS 301    | Advanced Writing in Professional Contexts     | Fall 2024   | <ul><li>[X] YES</li></ul> |
-  |  BUS 321    | Organizational Leadership                     | ...         | <ul><li>[ ] NO</li></ul>  |
-  |  FCS 160    | Home and Family Resource Management           | ...         | <ul><li>[ ] NO</li></ul>  |
-  |  GESCI 110  | Sustaining Human Life                         | ...         | <ul><li>[ ] NO</li></ul>  |
-  |  HUM 110    | Discovery and Discernment Through the Arts    | ...         | <ul><li>[ ] NO</li></ul>  |
-  |  PEACE 101  | Conflict and Peace                            | ...         | <ul><li>[ ] NO</li></ul>  |
-  |  PUBH 132   | Personal Health and Wellness                  | ...         | <ul><li>[ ] NO</li></ul>  |
+  | Course Code | Subject                                       | Term           | Completed?                |
+  |-------------|-----------------------------------------------|----------------|---------------------------|
+  |  PC 101     | Life Skills                                   | Spring 2022    | <ul><li>[X] YES</li></ul> |
+  |  PC 102     | Professional Skills                           | Fall 2022      | <ul><li>[X] YES</li></ul> |
+  |  PC 103     | University Skills                             | Winter 2023    | <ul><li>[X] YES</li></ul> |
+  |  GS 170     | Career Development                            | Fall 2023      | <ul><li>[X] YES</li></ul> |
+  |  ENG 150    | Writing and Reasoning Foundations             | Winter 2024    | <ul><li>[X] YES</li></ul> |
+  |  MATH 108X  | Math for the Real World                       | Winter 2024    | <ul><li>[X] YES</li></ul> |
+  |  REL 200C   | The Eternal Family                            | Fall 2022      | <ul><li>[X] YES</li></ul> |
+  |  REL 225C   | Foundations of the Restoration                | Fall 2022      | <ul><li>[X] YES</li></ul> |
+  |  REL 250C   | Jesus Christ Everlasting Gospel               | Fall 2023      | <ul><li>[X] YES</li></ul> |
+  |  REL 275C   | Teachings and Doctrines of the Book of Mormon | Spring 2022    | <ul><li>[X] YES</li></ul> |
+  |  REL 121    | The Book of Mormon (1 Nephi to Alma 30)       | Fall 2022      | <ul><li>[X] YES</li></ul> |
+  |  REL 122    | The Book of Mormon (Alma 30 to Moroni)        | Winter 2022    | <ul><li>[X] YES</li></ul> |
+  |  REL 211    | The New Testament                             | Winter 2023    | <ul><li>[X] YES</li></ul> |
+  |  BUS 301    | Advanced Writing in Professional Contexts     | Fall 2024      | <ul><li>[X] YES</li></ul> |
+  |  FCS 160    | Home and Family Resource Management           | Winter 2025 (2)| <ul><li>[ ] NO</li></ul>  |
+  |  BUS 321    | Organizational Leadership                     | Spring 2025 (1)| <ul><li>[ ] NO</li></ul>  |
+  |  GESCI 110  | Sustaining Human Life                         | Spring 2025 (2)| <ul><li>[ ] NO</li></ul>  |
+  |  HUM 110    | Discovery and Discernment Through the Arts    | Fall 2025 (1)  | <ul><li>[ ] NO</li></ul>  |
+  |  PEACE 101  | Conflict and Peace                            | ...            | <ul><li>[ ] NO</li></ul>  |
+  |  PUBH 132   | Personal Health and Wellness                  | ...            | <ul><li>[ ] NO</li></ul>  |
 </details>
 <details>
   <summary>
