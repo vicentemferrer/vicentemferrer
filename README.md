@@ -6,73 +6,86 @@
 
 #### I'm Vicente, an enthusiast self-taught developer 😅
 
-🔭 I’m currently studying ✨2nd year✨ of Bachelor of Software Development at BYU-Idaho. <br />
+🔭 I’m currently studying ✨3rd year✨ of Bachelor of Software Development at BYU-Idaho. <br />
 🌱 I’m currently learning React and Astro to be a Frontend Developer. <br />
 👯 I’m looking to collaborate on frontend projects as my skills may be useful. <br />
 🌟 I'm looking for experience in this wonderful world and improve as a developer. <br />
 
 I love hearing music 🎧, reading books 📖, practicing photography 📷, and watching movies 🎬 above all.
 
-<details><summary><h3>Bachelor of Software Development Status 👏🥳</h3></summary>
+### Bachelor of Software Development Curriculum Status
 
-  #### Web and Computer Programming 🏆
-  ![](https://geps.dev/progress/100)
-  | Course Code | Subject                          | Technology / Language / Topic   | Term        | Completed?               |
-  |-------------|----------------------------------|---------------------------------|-------------|--------------------------|
-  |   CSE 110   | Programming with Building Blocks | Python 🐍                      | Winter 2023 | <ul><li>[X] YES</li></ul> |
-  |   CSE 111   | Programming with Functions       | Python 🐍                      | Spring 2023 | <ul><li>[X] YES</li></ul> |
-  |   WDD 130   | Web Fundamentals                 | HTML&CSS 🌐                    | Spring 2023 | <ul><li>[X] YES</li></ul> |
-  |   CSE 210   | Programming with Classes         | C# 🖥                           | Fall 2023   | <ul><li>[X] YES</li></ul> |
-  |   CSE 121B  | Javascript Language              | JavaScript ⚙                   | Fall 2023   | <ul><li>[X] YES</li></ul> |
-  |   WDD 230   | Web Frontend Development 1       | Testing & DevTools 🛠🚀        | Winter 2024 | <ul><li>[X] YES</li></ul> |
-  
-  #### Web Development
-  ![](https://geps.dev/progress/80)
-  | Course Code | Subject                          | Technology / Language / Topic   | Term            | Completed?               |
-  |-------------|----------------------------------|---------------------------------|-----------------|--------------------------|
-  |   CIT 111   | Introduction to Databases        | MySQL / SQL 💾                  | Fall 2023       | <ul><li>[X] YES</li></ul> |
-  |   WDD 330   | Web Frontend Development 2       | JavaScript / Trello 🌐🗃        | Fall 2024       | <ul><li>[X] YES</li></ul> |
-  |   CSE 340   | Web Backend Development          | NodeJS / JavaScript 🟩🔐       | Fall 2024       | <ul><li>[X] YES</li></ul> |
-  |   CSE 341   | Web Services                     | Express / MongoDB / GraphQL 🦺  | Fall 2024       | <ul><li>[X] YES</li></ul> |
-  |   WDD 430   | Web Full-stack Development       | React / Next.js / TypeScript 🧰 | Winter 2025 (2)| <ul><li>[ ] NO</li></ul> |
-  
-  #### Software Development
-  ![](https://geps.dev/progress/0)
-  | Course Code | Subject                          | Technology / Language / Topic   | Term           | Completed?               |
-  |-------------|----------------------------------|---------------------------------|----------------|--------------------------|
-  |   CSE 212   | Programming w/Data Struct        | C# 🖥                           | Winter 2025 (2)| <ul><li>[ ] NO</li></ul> |
-  |   CSE 270   | Software Testing                 | Testing Procedures & Tools 🛠   | Spring 2025 (1)| <ul><li>[ ] NO</li></ul> |
-  |   CSE 300   | Professional Readiness           | Resume, Work Profile, Interview | Spring 2025 (1)| <ul><li>[ ] NO</li></ul> |
-  |   CSE 310   | Applied Programming              | 3 Software Projects 📚          | Spring 2025 (2)| <ul><li>[ ] NO</li></ul> |
-  |   CSE 325   | .NET Software Development        | .NET Framework 🟪              | Spring 2025 (2)| <ul><li>[ ] NO</li></ul> |
-  |   CSE 370   | Software Eng. Principles         | ...                             | Fall 2025 (1)  | <ul><li>[ ] NO</li></ul> |
-  |   CSE 499   | Senior Project                   | ...                             | Fall 2025 (1)  | <ul><li>[ ] NO</li></ul> |
+- <details>
+    <summary><img src='https://geps.dev/progress/100' /> <h4>Web and Computer Programming Certificate 🏆</h4></summary>
+      
+  | Course ID   | Course                           | Language                | Term Completion |      
+  |-------------|----------------------------------|-------------------------|-----------------|
+  |   CSE 110   | Programming with Building Blocks | Python                  | **Winter 2023** |
+  |   CSE 111   | Programming with Functions       | Python                  | **Spring 2023** |
+  |   WDD 130   | Web Fundamentals                 | HTML & CSS              | **Spring 2023** |
+  |   CSE 210   | Programming with Classes         | C#                      | **Fall 2023**   |
+  |   CSE 121B  | Javascript Language              | Javascript              | **Fall 2023**   |
+  |   WDD 230   | Web Frontend Development 1       | HTML & CSS & Javascript | **Winter 2024** |
+  |  GS 170     | Career Development               |                         | **Fall 2023**   |
 
-  #### General Education
-  ![](https://geps.dev/progress/70)
-  | Course Code | Subject                                       | Term           | Completed?                |
-  |-------------|-----------------------------------------------|----------------|---------------------------|
-  |  PC 101     | Life Skills                                   | Spring 2022    | <ul><li>[X] YES</li></ul> |
-  |  PC 102     | Professional Skills                           | Fall 2022      | <ul><li>[X] YES</li></ul> |
-  |  PC 103     | University Skills                             | Winter 2023    | <ul><li>[X] YES</li></ul> |
-  |  GS 170     | Career Development                            | Fall 2023      | <ul><li>[X] YES</li></ul> |
-  |  ENG 150    | Writing and Reasoning Foundations             | Winter 2024    | <ul><li>[X] YES</li></ul> |
-  |  MATH 108X  | Math for the Real World                       | Winter 2024    | <ul><li>[X] YES</li></ul> |
-  |  REL 200C   | The Eternal Family                            | Fall 2022      | <ul><li>[X] YES</li></ul> |
-  |  REL 225C   | Foundations of the Restoration                | Fall 2022      | <ul><li>[X] YES</li></ul> |
-  |  REL 250C   | Jesus Christ Everlasting Gospel               | Fall 2023      | <ul><li>[X] YES</li></ul> |
-  |  REL 275C   | Teachings and Doctrines of the Book of Mormon | Spring 2022    | <ul><li>[X] YES</li></ul> |
-  |  REL 121    | The Book of Mormon (1 Nephi to Alma 30)       | Fall 2022      | <ul><li>[X] YES</li></ul> |
-  |  REL 122    | The Book of Mormon (Alma 30 to Moroni)        | Winter 2022    | <ul><li>[X] YES</li></ul> |
-  |  REL 211    | The New Testament                             | Winter 2023    | <ul><li>[X] YES</li></ul> |
-  |  BUS 301    | Advanced Writing in Professional Contexts     | Fall 2024      | <ul><li>[X] YES</li></ul> |
-  |  FCS 160    | Home and Family Resource Management           | Winter 2025 (2)| <ul><li>[ ] NO</li></ul>  |
-  |  BUS 321    | Organizational Leadership                     | Spring 2025 (1)| <ul><li>[ ] NO</li></ul>  |
-  |  GESCI 110  | Sustaining Human Life                         | Spring 2025 (2)| <ul><li>[ ] NO</li></ul>  |
-  |  HUM 110    | Discovery and Discernment Through the Arts    | Fall 2025 (1)  | <ul><li>[ ] NO</li></ul>  |
-  |  PEACE 101  | Conflict and Peace                            | ...            | <ul><li>[ ] NO</li></ul>  |
-  |  PUBH 132   | Personal Health and Wellness                  | ...            | <ul><li>[ ] NO</li></ul>  |
-</details>
+  </details>
+  
+- <details>
+    <summary><img src='https://geps.dev/progress/100' /> <h4>Web Development Certificate 🏆</h4></summary>
+      
+  | Course ID   | Course                           | Language                | Frameworks and Tools                                | Term Completion |      
+  |-------------|----------------------------------|-------------------------|-----------------------------------------------------|-----------------|
+  |   CIT 111   | Introduction to Databases        | SQL                     | MySQL Server and MySQL Workbench                    | **Fall 2023**   | 
+  |   WDD 330   | Web Frontend Development 2       | HTML & CSS & Javascript | Vite, Trello and Netlify                            | **Fall 2024**   | 
+  |   CSE 340   | Web Backend Development          | Javascript              | Node.js, Express, PostgreSQL, pgAdmin and Render    | **Fall 2024**   | 
+  |   CSE 341   | Web Services                     | Javascript              | Node.js, Express, MongoDB, MongoDB Atlas and Render | **Fall 2024**   |
+  |   WDD 430   | Web Full-stack Development       | HTML & CSS & Javascript | Next.js, PostgreSQL, GitHub Projects and Vercel     | **Winter 2025** |
+
+  </details>
+
+- <details>
+    <summary><img src='https://geps.dev/progress/17' /> <h4>Software Development Certificate <i>(in progress)</i></h4></summary>
+      
+  | Course ID   | Course                           | Language                | Frameworks and Tools                                | Term Completion |      
+  |-------------|----------------------------------|-------------------------|-----------------------------------------------------|-----------------|
+  |   CSE 212   | Programming w/Data Struct        | C#                      |                                                     | **Winter 2025** |
+  |   CSE 270   | Software Testing                 |                         |                                                     | *Spring 2025*   |
+  |   CSE 300   | Professional Readiness           |                         |                                                     | *Spring 2025*   |
+  |   CSE 310   | Applied Programming              |                         |                                                     | *Spring 2025*   |
+  |   CSE 325   | .NET Software Development        |                         |                                                     | *Spring 2025*   |
+  |   CSE 370   | Software Eng. Principles         |                         |                                                     | *Fall 2025*     |
+
+  </details>
+
+- <details>
+    <summary><img src='https://geps.dev/progress/82' /> <h4>General Education Requirements <i>(in progress)</i></h4></summary>
+      
+  | Course ID   | Course                                        | Term Completion |
+  |-------------|-----------------------------------------------|-----------------|
+  |  PC 101     | Life Skills                                   | **Spring 2022** |
+  |  PC 102     | Professional Skills                           | **Fall 2022**   |
+  |  PC 103     | University Skills                             | **Winter 2023** |
+  |  ENG 150    | Writing and Reasoning Foundations             | **Winter 2024** |
+  |  MATH 108X  | Math for the Real World                       | **Winter 2024** |
+  |  REL 200C   | The Eternal Family                            | **Fall 2022**   |
+  |  REL 225C   | Foundations of the Restoration                | **Fall 2022**   |
+  |  REL 250C   | Jesus Christ Everlasting Gospel               | **Fall 2023**   |
+  |  REL 275C   | Teachings and Doctrines of the Book of Mormon | **Spring 2022** |
+  |  REL 121    | The Book of Mormon (1 Nephi to Alma 30)       | **Fall 2022**   |
+  |  REL 122    | The Book of Mormon (Alma 30 to Moroni)        | **Winter 2022** |
+  |  REL 211    | The New Testament                             | **Winter 2023** |
+  |  BUS 301    | Advanced Writing in Professional Contexts     | **Fall 2024**   |
+  |  FCS 160    | Home and Family Resource Management           | **Winter 2025** |
+  |  BUS 321    | Organizational Leadership                     | *Spring 2025*   |
+  |  GESCI 110  | Sustaining Human Life                         | *Spring 2025*   |
+  |  HUM 110    | Discovery and Discernment Through the Arts    | *Fall 2025*     |
+  |  PEACE 101  | * Conflict and Peace                          |                 |
+  |  PUBH 132   | * Personal Health and Wellness                |                 |
+
+  </details>
+
+- #### ![](https://geps.dev/progress/0) CSE 499 Senior Project
+
 <details>
   <summary>
     <h3>freeCodeCamp Certifications Status 🎓📚</h3>
