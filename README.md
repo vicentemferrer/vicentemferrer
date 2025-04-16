@@ -1,3 +1,5 @@
+![](/images/header-rounded.png)
+
 ## About me
 
 <!--
@@ -29,7 +31,7 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
   |  GS 170     | Career Development               |                         | **Fall 2023**   |
 
   </details>
-  
+
 - <details>
     <summary><img src='https://geps.dev/progress/100' /> <h4>Web Development Certificate 🏆</h4></summary>
       
@@ -91,90 +93,96 @@ I love hearing music 🎧, reading books 📖, practicing photography 📷, and 
     <h3>freeCodeCamp Certifications Status 🎓📚</h3>
   </summary>
 
-  #### Responsive Web Design
-  ![](https://geps.dev/progress/100)
-  | Certificate Projects             | Project URL                | Completed?                |
-  |----------------------------------|----------------------------|---------------------------|
-  | Survey Form                      | [Open ↗][survey_link]      | <ul><li>[X] YES</li></ul> |
-  | Tribute Page                     | [Open ↗][tribute_link]     | <ul><li>[X] YES</li></ul> |
-  | Technical Documentation Page     | [Open ↗][docs_link]        | <ul><li>[X] YES</li></ul> |
-  | Product Landing Page             | [Open ↗][landing_link]     | <ul><li>[X] YES</li></ul> |
-  | Personal Portfolio Webpage       | [Open ↗][portfolio_link]   | <ul><li>[X] YES</li></ul> |
+#### Responsive Web Design
 
-  [survey_link]: https://vicentemferrer.github.io/build-a-survey-form/
-  [tribute_link]: https://vicentemferrer.github.io/build-a-tribute-page/
-  [docs_link]: https://vicentemferrer.github.io/build-a-technical-documentation-page/
-  [landing_link]: https://vicentemferrer.github.io/build-a-product-landing-page/
-  [portfolio_link]: https://vicentemferrer.000webhostapp.com/
-  
-  #### JavaScript Algorithms and Data Structures
-  ![](https://geps.dev/progress/100)
-  | Certificate Projects             | Project URL                | Completed?                |
-  |----------------------------------|----------------------------|---------------------------|
-  | Palindrome Checker               | Not Available              | <ul><li>[X] YES</li></ul> |
-  | Roman Numeral Converter          | Not Available              | <ul><li>[X] YES</li></ul> |
-  | Caesars Cipher                   | Not Available              | <ul><li>[X] YES</li></ul> |
-  | Telephone Number Validator       | Not Available              | <ul><li>[X] YES</li></ul> |
-  | Cash Register                    | Not Available              | <ul><li>[X] YES</li></ul> |
-  
-  #### Front End Development Libraries
-  ![](https://geps.dev/progress/100)
-  | Certificate Projects             | Project URL                | Completed?                |
-  |----------------------------------|----------------------------|---------------------------|
-  | Build a Random Quote Machine     | [Open ↗][rand_quot_link]   | <ul><li>[X] YES</li></ul> |
-  | Build a Markdown Previewer       | [Open ↗][md_prev_link]     | <ul><li>[X] YES</li></ul> |
-  | Build a Drum Machine             | [Open ↗][drum_mach_link]   | <ul><li>[X] YES</li></ul> |
-  | Build a JavaScript Calculator    | [Open ↗][js_calc_link]     | <ul><li>[X] YES</li></ul> |
-  | Build a 25 + 5 Clock             | [Open ↗][pomodoro_link]    | <ul><li>[X] YES</li></ul> |
+![](https://geps.dev/progress/100)
+| Certificate Projects | Project URL | Completed? |
+|----------------------------------|----------------------------|---------------------------|
+| Survey Form | [Open ↗][survey_link] | <ul><li>[X] YES</li></ul> |
+| Tribute Page | [Open ↗][tribute_link] | <ul><li>[X] YES</li></ul> |
+| Technical Documentation Page | [Open ↗][docs_link] | <ul><li>[X] YES</li></ul> |
+| Product Landing Page | [Open ↗][landing_link] | <ul><li>[X] YES</li></ul> |
+| Personal Portfolio Webpage | [Open ↗][portfolio_link] | <ul><li>[X] YES</li></ul> |
 
-  [rand_quot_link]: https://vicentemferrer.github.io/random-quote-machine.v2/
-  [md_prev_link]: https://vicentemferrer.github.io/markdown-previewer/
-  [drum_mach_link]: https://vicentemferrer.github.io/react-drum-machine/
-  [js_calc_link]: https://vicentemferrer.github.io/javascript-calculator/
-  [pomodoro_link]: https://vicentemferrer.github.io/pomodoro-clock/
+[survey_link]: https://vicentemferrer.github.io/build-a-survey-form/
+[tribute_link]: https://vicentemferrer.github.io/build-a-tribute-page/
+[docs_link]: https://vicentemferrer.github.io/build-a-technical-documentation-page/
+[landing_link]: https://vicentemferrer.github.io/build-a-product-landing-page/
+[portfolio_link]: https://vicentemferrer.000webhostapp.com/
 
-  #### Data Visualization
-  ![](https://geps.dev/progress/20)
-  | Certificate Projects                    | Project URL                 | Completed?                |
-  |-----------------------------------------|-----------------------------|---------------------------|
-  | Visualize Data with a Bar Chart         | [Open ↗][bar_link]          | <ul><li>[X] YES</li></ul> |
-  | Visualize Data with a Scatterplot Graph | [In progress][scatter_link] | <ul><li>[ ] NO</li></ul> |
-  | Visualize Data with a Heat Map          | [In progress][map_link]     | <ul><li>[ ] NO</li></ul> |
-  | Visualize Data with a Choropleth Map    | [In progress][choro_link]   | <ul><li>[ ] NO</li></ul> |
-  | Visualize Data with a Treemap Diagram   | [In progress][diagram_link] | <ul><li>[ ] NO</li></ul> |
+#### JavaScript Algorithms and Data Structures
 
-  [bar_link]: https://vicentemferrer.github.io/gdp-bar-chart/
-  [scatter_link]: https://vicentemferrer.github.io/doping-scatterplot-graph/
-  [map_link]: ""
-  [choro_link]: ""
-  [diagram_link]: ""
+![](https://geps.dev/progress/100)
+| Certificate Projects | Project URL | Completed? |
+|----------------------------------|----------------------------|---------------------------|
+| Palindrome Checker | Not Available | <ul><li>[X] YES</li></ul> |
+| Roman Numeral Converter | Not Available | <ul><li>[X] YES</li></ul> |
+| Caesars Cipher | Not Available | <ul><li>[X] YES</li></ul> |
+| Telephone Number Validator | Not Available | <ul><li>[X] YES</li></ul> |
+| Cash Register | Not Available | <ul><li>[X] YES</li></ul> |
 
-  #### Back End Development and APIs
-  ![](https://geps.dev/progress/40)
-  | Certificate Projects                    | Project URL                  | Completed?                |
-  |-----------------------------------------|------------------------------|---------------------------|
-  | Timestamp Microservice                  | [Open ↗][timestamp_link]     | <ul><li>[X] YES</li></ul> |
-  | Request Header Parser Microservice      | [Open ↗][header_link]        | <ul><li>[X] YES</li></ul> |
-  | URL Shortener Microservice              | [In progress][url_link]      | <ul><li>[ ] NO</li></ul>  |
-  | Exercise Tracker                        | [In progress][tracker_link]  | <ul><li>[ ] NO</li></ul>  |
-  | File Metadata Microservice              | [In progress][metadata_link] | <ul><li>[ ] NO</li></ul>  |
+#### Front End Development Libraries
 
-  [timestamp_link]: https://timestamp-microservice-htso.onrender.com/
-  [header_link]: https://headerparser-microservice-ay61.onrender.com/
-  [url_link]: ""
-  [tracker_link]: ""
-  [metadata_link]: ""
+![](https://geps.dev/progress/100)
+| Certificate Projects | Project URL | Completed? |
+|----------------------------------|----------------------------|---------------------------|
+| Build a Random Quote Machine | [Open ↗][rand_quot_link] | <ul><li>[X] YES</li></ul> |
+| Build a Markdown Previewer | [Open ↗][md_prev_link] | <ul><li>[X] YES</li></ul> |
+| Build a Drum Machine | [Open ↗][drum_mach_link] | <ul><li>[X] YES</li></ul> |
+| Build a JavaScript Calculator | [Open ↗][js_calc_link] | <ul><li>[X] YES</li></ul> |
+| Build a 25 + 5 Clock | [Open ↗][pomodoro_link] | <ul><li>[X] YES</li></ul> |
 
-  #### Foundational C# with Microsoft
-  ![](https://geps.dev/progress/71)
-  | Modules                                            | Module Units | Completed?                |
-  |----------------------------------------------------|--------------|---------------------------|
-  | Write Your First Code Using C#                     | 7            | <ul><li>[X] YES</li></ul> |
-  | Create and Run Simple C# Console Applications      | 8            | <ul><li>[X] YES</li></ul> |
-  | Add Logic to C# Console Applications               | 8            | <ul><li>[X] YES</li></ul> |
-  | Work with Variable Data in C# Console Applications | 8            | <ul><li>[X] YES</li></ul> |
-  | Create Methods in C# Console Applications          | 6            | <ul><li>[X] YES</li></ul> |
-  | Debug C# Console Applications                      | 7            | <ul><li>[ ] NO</li></ul>  |
-  | Foundational C# with Microsoft Certification Exam  | 1            | <ul><li>[ ] NO</li></ul>  |
+[rand_quot_link]: https://vicentemferrer.github.io/random-quote-machine.v2/
+[md_prev_link]: https://vicentemferrer.github.io/markdown-previewer/
+[drum_mach_link]: https://vicentemferrer.github.io/react-drum-machine/
+[js_calc_link]: https://vicentemferrer.github.io/javascript-calculator/
+[pomodoro_link]: https://vicentemferrer.github.io/pomodoro-clock/
+
+#### Data Visualization
+
+![](https://geps.dev/progress/20)
+| Certificate Projects | Project URL | Completed? |
+|-----------------------------------------|-----------------------------|---------------------------|
+| Visualize Data with a Bar Chart | [Open ↗][bar_link] | <ul><li>[X] YES</li></ul> |
+| Visualize Data with a Scatterplot Graph | [In progress][scatter_link] | <ul><li>[ ] NO</li></ul> |
+| Visualize Data with a Heat Map | [In progress][map_link] | <ul><li>[ ] NO</li></ul> |
+| Visualize Data with a Choropleth Map | [In progress][choro_link] | <ul><li>[ ] NO</li></ul> |
+| Visualize Data with a Treemap Diagram | [In progress][diagram_link] | <ul><li>[ ] NO</li></ul> |
+
+[bar_link]: https://vicentemferrer.github.io/gdp-bar-chart/
+[scatter_link]: https://vicentemferrer.github.io/doping-scatterplot-graph/
+[map_link]: ""
+[choro_link]: ""
+[diagram_link]: ""
+
+#### Back End Development and APIs
+
+![](https://geps.dev/progress/40)
+| Certificate Projects | Project URL | Completed? |
+|-----------------------------------------|------------------------------|---------------------------|
+| Timestamp Microservice | [Open ↗][timestamp_link] | <ul><li>[X] YES</li></ul> |
+| Request Header Parser Microservice | [Open ↗][header_link] | <ul><li>[X] YES</li></ul> |
+| URL Shortener Microservice | [In progress][url_link] | <ul><li>[ ] NO</li></ul> |
+| Exercise Tracker | [In progress][tracker_link] | <ul><li>[ ] NO</li></ul> |
+| File Metadata Microservice | [In progress][metadata_link] | <ul><li>[ ] NO</li></ul> |
+
+[timestamp_link]: https://timestamp-microservice-htso.onrender.com/
+[header_link]: https://headerparser-microservice-ay61.onrender.com/
+[url_link]: ""
+[tracker_link]: ""
+[metadata_link]: ""
+
+#### Foundational C# with Microsoft
+
+![](https://geps.dev/progress/71)
+| Modules | Module Units | Completed? |
+|----------------------------------------------------|--------------|---------------------------|
+| Write Your First Code Using C# | 7 | <ul><li>[X] YES</li></ul> |
+| Create and Run Simple C# Console Applications | 8 | <ul><li>[X] YES</li></ul> |
+| Add Logic to C# Console Applications | 8 | <ul><li>[X] YES</li></ul> |
+| Work with Variable Data in C# Console Applications | 8 | <ul><li>[X] YES</li></ul> |
+| Create Methods in C# Console Applications | 6 | <ul><li>[X] YES</li></ul> |
+| Debug C# Console Applications | 7 | <ul><li>[ ] NO</li></ul> |
+| Foundational C# with Microsoft Certification Exam | 1 | <ul><li>[ ] NO</li></ul> |
+
 </details>
-
