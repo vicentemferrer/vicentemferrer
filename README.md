@@ -2,8 +2,6 @@
 **vicentemferrer/vicentemferrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 ![Header](/images/header.png)
 
 ## About me
@@ -12,7 +10,7 @@
 - Fullstack Developer
 - Team Player 🤝
 
-<i class="devicon-adonisjs-original"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 
 #### I'm Vicente, an enthusiast self-taught developer 😅
 
