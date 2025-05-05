@@ -7,7 +7,8 @@
 ## About me
 
 - 🎓 **AAS in Software Development** 🎓
-- Fullstack Developer ![Next.js logo](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg){width=12}
+- Fullstack Developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width='12' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width='12' />
 - Team Player 🤝
 
 #### I'm Vicente, an enthusiast self-taught developer 😅
