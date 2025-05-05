@@ -1,4 +1,4 @@
-![](/images/header-rounded.png)
+![Header](/images/header.png)
 
 ## About me
 
