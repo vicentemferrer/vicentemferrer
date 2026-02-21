@@ -70,5 +70,5 @@
 
 ## 📊 Stats
 
-![Vicente's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicentemferrer&show_icons=true&theme=github_dark)<br />
+![Vicente's GitHub Stats](./images/stats.svg)<br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentemferrer&layout=compact&theme=github_dark)
