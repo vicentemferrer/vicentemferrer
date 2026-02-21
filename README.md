@@ -71,4 +71,4 @@
 ## 📊 Stats
 
 ![Vicente's GitHub Stats](./images/stats.svg)<br />
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentemferrer&layout=compact&theme=github_dark)
+![Top Languages](./images/top-langs.svg)
